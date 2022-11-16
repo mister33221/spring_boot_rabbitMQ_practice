@@ -2,4 +2,4 @@
 Practice use rabbitMQ in spring boot
 
 Note
-Nhttps://hackmd.io/fYSAeQFnQPe1c0ZyC3MC5g?view
+https://hackmd.io/fYSAeQFnQPe1c0ZyC3MC5g?view
